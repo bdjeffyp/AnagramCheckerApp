@@ -1,0 +1,6 @@
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\AnagramSolverApp\AnagramSolverApp\obj\Debug\AnagramSolverApp.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\AnagramSolverApp\AnagramSolverApp\bin\Debug\AnagramSolverApp.exe.config
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\AnagramSolverApp\AnagramSolverApp\bin\Debug\AnagramSolverApp.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\AnagramSolverApp\AnagramSolverApp\bin\Debug\AnagramSolverApp.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\AnagramSolverApp\AnagramSolverApp\obj\Debug\AnagramSolverApp.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\AnagramSolverApp\AnagramSolverApp\obj\Debug\AnagramSolverApp.pdb
